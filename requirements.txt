@@ -9,4 +9,4 @@ ruff==0.0.284
 
 #analysis & data viz
 pandas==2.2.2
-numpy==2.1.0
+numpy

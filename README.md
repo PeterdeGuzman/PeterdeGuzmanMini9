@@ -5,4 +5,4 @@
 [![Lint](https://github.com/PeterdeGuzman/PeterdeGuzmanMini9/actions/workflows/lint.yml/badge.svg)](https://github.com/PeterdeGuzman/PeterdeGuzmanMini9/actions/workflows/lint.yml)
 [![Test](https://github.com/PeterdeGuzman/PeterdeGuzmanMini9/actions/workflows/test.yml/badge.svg)](https://github.com/PeterdeGuzman/PeterdeGuzmanMini9/actions/workflows/test.yml)
 
-All requirements and Python syntax for this project are included in the "PeterdeGuzman_Mini9.ipynb" Jupyter notebook that is hosted on the clod through Google Colab. 
+All requirements and Python syntax for this project are included in the "PeterdeGuzman_Mini9.ipynb" Jupyter notebook that is hosted on the cloud through Google Colab. 
